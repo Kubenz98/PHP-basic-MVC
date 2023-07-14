@@ -1,2 +1,10 @@
-# PHP-basic-MVC
-My first very basic mvc framework
+# Basic MVC framework
+This is my first, very basic mvc framework.
+
+## Installation
+
+1. Clone this repository.
+2. Create database.
+3. Edit database params in app>config>config.php
+4. Change public>.htaccess - `RewriteBase /mvc/public` to your public location.
+5. Start php server via XAMPP.
